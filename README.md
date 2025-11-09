@@ -5,7 +5,7 @@ AI-ready astro data framework with FastAPI backend and Next.js frontend.
 ## Project Structure
 
 ```
-vibecoding/
+Astro_Data_Framework/
 ├── backend/
 │   ├── pyproject.toml          # Python dependencies (uv)
 │   ├── config.py               # Configuration settings (environment variables)
